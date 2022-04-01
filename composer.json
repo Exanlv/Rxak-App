@@ -1,0 +1,25 @@
+{
+    "name": "rxak/framework",
+    "description": "The Rxak framework",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Exan"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "path",
+            "url": "/home/vagrant/rxak_support"
+        }
+    ],
+    "require": {
+        "rxak/support": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Rxak\\App\\": "app/"
+        }
+    }
+}

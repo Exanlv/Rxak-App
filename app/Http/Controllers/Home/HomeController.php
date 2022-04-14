@@ -3,7 +3,7 @@
 namespace Rxak\App\Http\Controllers\Home;
 
 use Exception;
-use Rxak\Framework\Http\Controllers\BaseController;
+use Rxak\App\Http\Controllers\BaseController;
 use Rxak\Framework\Http\Request;
 use Rxak\Framework\Http\Response;
 use Rxak\Framework\Logging\Logger;

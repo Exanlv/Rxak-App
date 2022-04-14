@@ -37,4 +37,9 @@ return [
      * Thrown when the method specified in a route is not implemented
      */
     '501' => new SafeException(501, 'Not implemented.'),
+
+    /**
+     * Thrown as a general exception
+     */
+    '502' => new SafeException(502, 'Something went wrong.'),
 ];

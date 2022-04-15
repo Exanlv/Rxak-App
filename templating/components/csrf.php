@@ -1,1 +1,1 @@
-<input type="hidden" name="<?= $formName ?>" value="<?= $csrfToken ?>">
+<input type="hidden" name="<?= $this->formName ?>" value="<?= $this->csrfToken ?>">

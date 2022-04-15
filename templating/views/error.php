@@ -30,8 +30,8 @@
 </head>
 <body>
     <div id="container">
-        <h1><?= $code ?></h1>
-        <p><?= $message ?></p>
+        <h1><?= $this->code ?></h1>
+        <p><?= $this->message ?></p>
     </div>
 </body>
 </html>

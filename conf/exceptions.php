@@ -6,7 +6,7 @@ return [
     /**
      * Thrown when user input failed
      */
-    '400' => new SafeException(403, 'Bad request.'),
+    '400' => new SafeException(400, 'Bad request.'),
 
     /**
      * Thrown when the authorized check for a validator fails

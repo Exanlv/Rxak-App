@@ -4,16 +4,16 @@ namespace Rxak\App\Http\Validators;
 
 use Rxak\Framework\Validation\Validator;
 
-class FeedbackValidator extends Validator
+class LoginValidator extends Validator
 {
     public function authorized(): bool
     {
-        return false;
+        return true;
     }
 
     public function validate(): void
     {
-        $this->minLength('email', 16);
-        $this->minLength('name', 3);
+        $this->minLength('username', 5);
+        $this->minLength('password', 3);
     }
 }

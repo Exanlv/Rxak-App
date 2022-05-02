@@ -1,6 +1,6 @@
 <?php
 
-use Rxak\Framework\App;
+use Rxak\App\App;
 use Rxak\Framework\Filesystem\Filesystem;
 use Rxak\App\Routes\Router;
 use Rxak\Framework\Http\Request;

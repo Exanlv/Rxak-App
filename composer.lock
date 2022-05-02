@@ -166,12 +166,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/collections.git",
-                "reference": "5be9f49dc490570515bc5e4180570b6f079fb964"
+                "reference": "32badf046bfc187afacbee37b9820c5e200285d0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/illuminate/collections/zipball/5be9f49dc490570515bc5e4180570b6f079fb964",
-                "reference": "5be9f49dc490570515bc5e4180570b6f079fb964",
+                "url": "https://api.github.com/repos/illuminate/collections/zipball/32badf046bfc187afacbee37b9820c5e200285d0",
+                "reference": "32badf046bfc187afacbee37b9820c5e200285d0",
                 "shasum": ""
             },
             "require": {
@@ -213,7 +213,7 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
-            "time": "2022-04-27T13:13:22+00:00"
+            "time": "2022-05-02T14:05:19+00:00"
         },
         {
             "name": "illuminate/conditionable",
@@ -366,12 +366,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/database.git",
-                "reference": "fe010769f754eb879d15ba07fab54c7f5c2d6708"
+                "reference": "64a5df1a272523a0c23acfb847dce7bc8e45dd82"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/illuminate/database/zipball/fe010769f754eb879d15ba07fab54c7f5c2d6708",
-                "reference": "fe010769f754eb879d15ba07fab54c7f5c2d6708",
+                "url": "https://api.github.com/repos/illuminate/database/zipball/64a5df1a272523a0c23acfb847dce7bc8e45dd82",
+                "reference": "64a5df1a272523a0c23acfb847dce7bc8e45dd82",
                 "shasum": ""
             },
             "require": {
@@ -426,7 +426,7 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
-            "time": "2022-04-27T13:13:22+00:00"
+            "time": "2022-05-02T14:12:43+00:00"
         },
         {
             "name": "illuminate/macroable",
@@ -480,12 +480,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/support.git",
-                "reference": "7f57367c0ccaf5e75ee2059b899c3418928a0187"
+                "reference": "b108c0f955d0c499d0da5b593737e9f107b8ff0f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/illuminate/support/zipball/7f57367c0ccaf5e75ee2059b899c3418928a0187",
-                "reference": "7f57367c0ccaf5e75ee2059b899c3418928a0187",
+                "url": "https://api.github.com/repos/illuminate/support/zipball/b108c0f955d0c499d0da5b593737e9f107b8ff0f",
+                "reference": "b108c0f955d0c499d0da5b593737e9f107b8ff0f",
                 "shasum": ""
             },
             "require": {
@@ -541,7 +541,7 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
-            "time": "2022-04-29T08:46:19+00:00"
+            "time": "2022-05-02T14:23:07+00:00"
         },
         {
             "name": "monolog/monolog",
@@ -972,16 +972,16 @@
         },
         {
             "name": "rxak/support",
-            "version": "v22.5.3",
+            "version": "v22.5.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Exanlv/Rxak-Support.git",
-                "reference": "7cd957aedff14080d554e144da1f3a1707e278c6"
+                "reference": "ab6f2498078179061fccc9fd55acc71843209fd2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Exanlv/Rxak-Support/zipball/7cd957aedff14080d554e144da1f3a1707e278c6",
-                "reference": "7cd957aedff14080d554e144da1f3a1707e278c6",
+                "url": "https://api.github.com/repos/Exanlv/Rxak-Support/zipball/ab6f2498078179061fccc9fd55acc71843209fd2",
+                "reference": "ab6f2498078179061fccc9fd55acc71843209fd2",
                 "shasum": ""
             },
             "require": {
@@ -1010,9 +1010,9 @@
             "description": "Support for Rxak framework",
             "support": {
                 "issues": "https://github.com/Exanlv/Rxak-Support/issues",
-                "source": "https://github.com/Exanlv/Rxak-Support/tree/v22.5.3"
+                "source": "https://github.com/Exanlv/Rxak-Support/tree/v22.5.4"
             },
-            "time": "2022-05-01T18:28:35+00:00"
+            "time": "2022-05-02T17:48:21+00:00"
         },
         {
             "name": "symfony/console",

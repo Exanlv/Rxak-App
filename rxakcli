@@ -2,7 +2,7 @@
 
 <?php
 
-use Rxak\Framework\App;
+use Rxak\App\App;
 use Rxak\App\Console\Kernel;
 use Rxak\Framework\Filesystem\Filesystem;
 
